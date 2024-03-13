@@ -27,7 +27,6 @@ In my free time, I enjoy exploring new data analysis tools and techniques to exp
 
 ## Certificates
 
-- Google Data Analytics Professional Certificate (Sep 2022) (Coursera - Google).
 - SAS Machine Learning Viya 3.5
 
 
