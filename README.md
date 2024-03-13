@@ -39,5 +39,4 @@ In my free time, I enjoy exploring new data analysis tools and techniques to exp
 This repository showcases my skills, shares projects, and tracks my progress in Data Analytics / Data Science-related topics.
 
 ## CV
-- [Download CV](https://github.com/JustinDoubleO/Data-Analyst-Portfolio/blob/7bc954ece53047b789d358e5ac53244c381ca87f/Ye%20Min%20Oo_CV.pdf)
-
+- [Download CV](https://github.com/JustinDoubleO/Data-Analyst-Portfolio/blob/201019ee2c21d98ce955b7e95cab49e8152b0acc/Ye%20Min%20Oo_CV.pdf)
