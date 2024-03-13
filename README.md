@@ -39,4 +39,5 @@ In my free time, I enjoy exploring new data analysis tools and techniques to exp
 This repository showcases my skills, shares projects, and tracks my progress in Data Analytics / Data Science-related topics.
 
 ## CV
-- [Download CV](Ye Min Oo_CV.pdf)
+- [Download CV](URL-of-your-CV-file)
+
