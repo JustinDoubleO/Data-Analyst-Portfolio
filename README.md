@@ -32,7 +32,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques to exp
 
 ## Contact
 
-- **LinkedIn:** [Ye Min Oo](https://www.linkedin.com/in/your-linkedin-profile/)
+- **LinkedIn:** [Ye Min Oo](http://www.linkedin.com/in/ye-min-oo-550508246)
 - **Email:** justindoubleo@gmail.com
 
 This repository showcases my skills, shares projects, and tracks my progress in Data Analytics / Data Science-related topics.
