@@ -1,47 +1,42 @@
 # Ye Min Oo - Data Analyst Portfolio
 
-## Contact Information:
-- Location: Sydney, NSW
-- Phone: 0497 138 796
-- Email: justindoubleo@gmail.com
-- LinkedIn: [LinkedIn Profile](http://www.linkedin.com/in/ye-min-oo-550508246)
+## Table of Contents
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+- [Education](#education)
+- [Certificates](#certificates)
+- [Contact](#contact)
 
-## Education:
-- **University Technology of Sydney**
-  - Bachelor of Science in Information Technology
-  - Major in Data Analytics & Business Information System Management
-  - Cumulative GPA: 6.0/7.0; WAM: 80.92
-  - Relevant Coursework: Data Analysis; Software Engineering; Business System Modelling; Algorithms; Artificial Intelligence
+## About
 
-## Work Experience:
-- **Entrepreneur**
-  - Astro Brewhouse (over 25+ employee Restaurant and Cafe), Nay Pyi Taw, Myanmar, January 2022 - Current
-  - Responsibilities:
-    - Oversaw all aspects of operations, including staff management, scheduling, and financial transactions.
-    - Implemented data-driven marketing strategies to enhance brand visibility and customer engagement.
-    - Utilized data analysis for strategic decision-making, optimizing operational efficiency and customer satisfaction.
-    - Managed procurement processes and inventory levels through data-driven forecasting.
+Hi, I'm Ye Min Oo! I hold a Bachelor of Science in Information Technology with a major in Data Analytics & Business Information System Management from the University of Technology Sydney. With a strong academic background and a passion for leveraging data to drive insights, I am enthusiastic about contributing to the field of data science as an entry-level data specialist.
 
-## University Projects:
-- **SAS Predictive Modelling (Oct 2023)**
-  - Achieved High Distinction for this project
-  - Description:
-    - Analysed BANK_DIRECT_MARKETING dataset from a Portuguese bank to predict term deposit sign-ups with 75-80% certainty.
-    - Identified skewed distributions and incorporated external factors for enriched insights.
-    - Evaluated multiple classification models including neural networks, logistic regression, decision trees, and support vector machines.
-    - Implemented systematic data mining approach resulting in improved predictive capabilities for banking institution's marketing campaigns.
+During my studies, I've developed a keen eye for identifying patterns and trends in complex datasets. My coursework has equipped me with skills in data analysis, software engineering, business system modeling, algorithms, and artificial intelligence. I've also gained practical experience as an entrepreneur at Astro Brewhouse in Myanmar, where I implemented data-driven marketing strategies and utilized data analysis for strategic decision-making.
 
-- **AI Analytics Capstone Project (Apr 2023)**
-  - Achieved High Distinction for this project
-  - Description:
-    - Conducted multi-objective optimization analysis using pre-processed datasets from the Pymoo Library.
-    - Demonstrated how optimization solves data mining problems for large businesses, including resource allocation, supply chain optimization, pricing optimization, marketing optimization, and operations optimization.
-    - Utilized optimization techniques for feature selection, model selection, parameter tuning, clustering, and anomaly detection to improve accuracy, efficiency, and effectiveness of data mining techniques.
+In my free time, I enjoy exploring new data analysis tools and techniques to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and using data to solve complex problems.
 
-## Certifications:
-- **SAS Machine Learning**
+## Portfolio Projects
 
-## Additional Information:
-- **Technical Skills:** Advanced in SQL, Microsoft Office (Excel, PowerPoint, Word); Proficient in MATLAB, Python, HTML/CSS, Tableau, Java, SAS
-- **Languages:** Fluent in Burmese, English
 
+## Education
+
+- **University Technology of Sydney:** Bachelor of Science in Information Technology
+- Major in Data Analytics & Business Information System Management
+- Cumulative GPA: 6.0/7.0; WAM: 80.92.
+
+
+## Certificates
+
+- Google Data Analytics Professional Certificate (Sep 2022) (Coursera - Google).
+- SAS Machine Learning Viya 3.5
+
+
+## Contact
+
+- **LinkedIn:** [Ye Min Oo](https://www.linkedin.com/in/your-linkedin-profile/)
+- **Email:** justindoubleo@gmail.com
+
+This repository showcases my skills, shares projects, and tracks my progress in Data Analytics / Data Science-related topics.
+
+## CV
+- [Download CV](link-to-your-cv.pdf)
