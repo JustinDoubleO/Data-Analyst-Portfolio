@@ -4,7 +4,7 @@
 - Location: Sydney, NSW
 - Phone: 0497 138 796
 - Email: justindoubleo@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- LinkedIn: [LinkedIn Profile](http://www.linkedin.com/in/ye-min-oo-550508246)
 
 ## Education:
 - **University Technology of Sydney**
