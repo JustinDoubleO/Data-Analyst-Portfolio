@@ -17,6 +17,8 @@ In my free time, I enjoy exploring new data analysis tools and techniques to exp
 
 ## Portfolio Projects
 
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
 
 ## Education
 
