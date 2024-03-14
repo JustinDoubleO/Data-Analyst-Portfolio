@@ -56,7 +56,7 @@ The Sandringham Dataset Analysis project provides valuable insights into the dyn
 ---
 ## US Open (Tennis) Dataset Analysis
 
-- **Report:** [Executive Summary (PDF)](https://github.com/JustinDoubleO/Portfolio-Projects/blob/3e611eb5688abec910b6e9841a5fb53cff6cd2e5/US%20Open%20Dataset%20Analysis%20Report.pdf)
+- **Report:** [US Open Dataset Analysis Report (PDF)](https://github.com/JustinDoubleO/Portfolio-Projects/blob/3e611eb5688abec910b6e9841a5fb53cff6cd2e5/US%20Open%20Dataset%20Analysis%20Report.pdf)
 - **Dataset:** [US Open Dataset (Excel)](https://github.com/JustinDoubleO/Portfolio-Projects/blob/3e611eb5688abec910b6e9841a5fb53cff6cd2e5/US%20Open%20Dataset.xlsx)
 
 #### Sample Dataset
@@ -91,6 +91,35 @@ The analysis revealed several key findings:
 - Correlation between match duration and player nationality, indicating potential differences in playing styles and strategies among champions from different countries.
 - Identification of outliers in player performance, highlighting instances of exceptional achievements or unexpected outcomes in specific matches or years.
 
+---
+## Australia Import and Export Data Analysis
+
+**Report:** [[Australia Import and Export Aanlysis Report (PDF)](link_to_your_report.pdf)  
+**Dataset:** [Australia Import and Export Dataset (Excel)](link_to_your_dataset.xlsx)  
+
+#### Goal of the Project:
+The goal of this project is to analyze Australia's import and export data from 1988 to 2021 using advanced data visualization techniques. By employing tools like Tableau, the project aims to provide insights into the country's trade statistics, trends, and patterns over time.
+
+#### Description:
+The project explores various visualization techniques applied to the dataset of Australia's import and export records. Techniques such as Time Series Charts, Interactive Charts, and Visual Dashboards are utilized to analyze trends in trade operations, geographical distribution, and performance indicators. Additionally, data storytelling techniques are employed to communicate key findings effectively.
+
+#### Skills Used:
+- Data Visualization: Utilized advanced visualization techniques to represent complex trade data effectively.
+- Tableau: Leveraged Tableau for creating interactive charts, dashboards, and visual stories.
+- Data Analysis: Conducted in-depth analysis of import and export data to identify trends and patterns.
+- Statistical Analysis: Applied statistical methods to analyze trade data and derive meaningful insights.
+- Report Writing: Compiled findings and insights into a comprehensive report for presentation.
+
+#### Result: 
+The analysis revealed several key findings: (more findings in the report)
+- Since 1988, Australia's overall import value has climbed by 591%.
+- Since 1988, Australia's overall export value has climbed by 757%.
+- The free trade agreements with China gave the Australian export industry several advantages and caused a surge in exports in 2014.
+- In 2003, domestic demand for imported products was spurred by the strengthening of the Australian dollar and the decrease in tariffs, resulting in a surge in imports.
+- Despite a decrease in exports of plastics in none-primary form in 2016, exports of plastics in primary form are rising.
+
+#### Conclusion:
+This comprehensive format covers all the essential aspects of your project, including the name, report, dataset, goal, description, skills used, and results, along with a conclusion summarizing the main findings.
 
 ---
 ## Education
