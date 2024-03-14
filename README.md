@@ -94,7 +94,7 @@ The analysis revealed several key findings:
 ---
 ## Australia Import and Export Data Analysis
 
-- **Report**: [Australia Import and Export Aanlysis Report (PDF)](link_to_your_report.pdf)  
+- **Report**: [Australia Import and Export Aanlysis Report (PDF)](https://github.com/JustinDoubleO/Portfolio-Projects/blob/3c23b5ac9a180d0777e6b483c14bf562eb7f0587/Australia%20Import%20and%20Export%20Aanlysis%20Report.pdf)
 - **Dataset**: [Australia Import and Export Dataset (Excel)](link_to_your_dataset.xlsx)  
 
 #### Goal of the Project:
