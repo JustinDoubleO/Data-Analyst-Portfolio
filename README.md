@@ -14,11 +14,11 @@ Hi, I'm Ye Min Oo! I hold a Bachelor of Science in Information Technology with a
 During my studies, I've developed a keen eye for identifying patterns and trends in complex datasets. My coursework has equipped me with skills in data analysis, software engineering, business system modeling, algorithms, and artificial intelligence. I've also gained practical experience as an entrepreneur at Astro Brewhouse in Myanmar, where I implemented data-driven marketing strategies and utilized data analysis for strategic decision-making.
 
 In my free time, I enjoy exploring new data analysis tools and techniques to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and using data to solve complex problems.
+
 ---
 ## Portfolio Projects
 
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
----
 ### Sandringham Dataset Analysis
 
 - **Report**: [Sandringham Dataset Analysis Report (PDF)](link_to_report_pdf)
