@@ -18,7 +18,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques to exp
 ## Portfolio Projects
 
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
-
+---
 ### Sandringham Dataset Analysis
 
 - **Report**: [Sandringham Dataset Analysis Report (PDF)](link_to_report_pdf)
@@ -71,7 +71,6 @@ The Sandringham Dataset Analysis project provides valuable insights into the dyn
 - **LinkedIn:** [Ye Min Oo](http://www.linkedin.com/in/ye-min-oo-550508246)
 - **Email:** justindoubleo@gmail.com
 
-This repository showcases my skills, shares projects, and tracks my progress in Data Analytics / Data Science-related topics.
 ---
 ## CV
 - [Download CV](https://github.com/JustinDoubleO/Data-Analyst-Portfolio/blob/201019ee2c21d98ce955b7e95cab49e8152b0acc/Ye%20Min%20Oo_CV.pdf)
