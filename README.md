@@ -94,8 +94,8 @@ The analysis revealed several key findings:
 ---
 ## Australia Import and Export Data Analysis
 
--**Report:** [Australia Import and Export Aanlysis Report (PDF)](link_to_your_report.pdf)  
--**Dataset:** [Australia Import and Export Dataset (Excel)](link_to_your_dataset.xlsx)  
+- **Report**: [Australia Import and Export Aanlysis Report (PDF)](link_to_your_report.pdf)  
+- **Dataset**: [Australia Import and Export Dataset (Excel)](link_to_your_dataset.xlsx)  
 
 #### Goal of the Project:
 The goal of this project is to analyze Australia's import and export data from 1988 to 2021 using advanced data visualization techniques. By employing tools like Tableau, the project aims to provide insights into the country's trade statistics, trends, and patterns over time.
