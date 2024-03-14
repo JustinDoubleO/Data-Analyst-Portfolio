@@ -39,6 +39,7 @@ The Sandringham Dataset Analysis project explores various facets of Sandringham'
 - Data Visualization
 - Statistical Analysis
 - Report Writing
+- Excel
 
 #### Result
 
@@ -80,6 +81,7 @@ The US Open Dataset Analysis project explores various visualization techniques a
 - Data Analysis
 - Statistical Analysis
 - Report Writing
+- Excel
 
 #### Result
 
@@ -95,7 +97,7 @@ The analysis revealed several key findings:
 ## Australia Import and Export Data Analysis
 
 - **Report**: [Australia Import and Export Aanlysis Report (PDF)](https://github.com/JustinDoubleO/Portfolio-Projects/blob/3c23b5ac9a180d0777e6b483c14bf562eb7f0587/Australia%20Import%20and%20Export%20Aanlysis%20Report.pdf)
-- **Dataset**: [Australia Import and Export Dataset (Excel)](link_to_your_dataset.xlsx)  
+- **Dataset**: [Australia Import and Export Dataset (Excel)](https://github.com/JustinDoubleO/Portfolio-Projects/blob/3c23b5ac9a180d0777e6b483c14bf562eb7f0587/Australia%20Import%20and%20Export%20Dataset.xlsx)
 
 #### Goal of the Project:
 The goal of this project is to analyze Australia's import and export data from 1988 to 2021 using advanced data visualization techniques. By employing tools like Tableau, the project aims to provide insights into the country's trade statistics, trends, and patterns over time.
@@ -104,11 +106,12 @@ The goal of this project is to analyze Australia's import and export data from 1
 The project explores various visualization techniques applied to the dataset of Australia's import and export records. Techniques such as Time Series Charts, Interactive Charts, and Visual Dashboards are utilized to analyze trends in trade operations, geographical distribution, and performance indicators. Additionally, data storytelling techniques are employed to communicate key findings effectively.
 
 #### Skills Used:
-- Data Visualization: Utilized advanced visualization techniques to represent complex trade data effectively.
-- Tableau: Leveraged Tableau for creating interactive charts, dashboards, and visual stories.
-- Data Analysis: Conducted in-depth analysis of import and export data to identify trends and patterns.
-- Statistical Analysis: Applied statistical methods to analyze trade data and derive meaningful insights.
-- Report Writing: Compiled findings and insights into a comprehensive report for presentation.
+- Data Visualization
+- Tableau
+- Data Analysis
+- Statistical Analysis
+- Report Writing
+- Excel
 
 #### Result: 
 The analysis revealed several key findings: (more findings in the report)
