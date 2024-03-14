@@ -22,7 +22,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Sandringham Dataset Analysis
 
-- **Report**: [Sandringham Dataset Analysis Report (PDF)](link_to_report_pdf)
+- **Report**: [Sandringham Dataset Analysis Report (PDF)](https://github.com/JustinDoubleO/Portfolio-Projects/blob/8be788ab1fb7c941324cf878fcf78108ef2d3f1e/Sandringham%20Dataset%20Analysis%20Report.pdf)
 - **Dataset**: [Sandringham Dataset (Excel)](link_to_excel_file)
 
 #### Goal
