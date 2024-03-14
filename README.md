@@ -57,7 +57,7 @@ The Sandringham Dataset Analysis project provides valuable insights into the dyn
 ## US Open (Tennis) Dataset Analysis
 
 - **Report:** [Executive Summary (PDF)](https://github.com/JustinDoubleO/Portfolio-Projects/blob/3e611eb5688abec910b6e9841a5fb53cff6cd2e5/US%20Open%20Dataset%20Analysis%20Report.pdf)
-- **Dataset:** [US Open Dataset (Excel)](link_to_excel_file)
+- **Dataset:** [US Open Dataset (Excel)](https://github.com/JustinDoubleO/Portfolio-Projects/blob/3e611eb5688abec910b6e9841a5fb53cff6cd2e5/US%20Open%20Dataset.xlsx)
 
 #### Sample Dataset
 
@@ -88,6 +88,8 @@ The analysis revealed several key findings:
 - The distribution of champions across different countries and genders.
 - Trends in match outcomes and player performances over time.
 - Geographic distribution of champions and the popularity of tennis across different regions.
+- Correlation between match duration and player nationality, indicating potential differences in playing styles and strategies among champions from different countries.
+- Identification of outliers in player performance, highlighting instances of exceptional achievements or unexpected outcomes in specific matches or years.
 
 
 ---
