@@ -21,6 +21,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques to exp
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ## Sandringham Dataset Analysis
+---
 
 - **Report**: [Sandringham Dataset Analysis Report (PDF)](link_to_report_pdf)
 - **Dataset**: [Sandringham Dataset (Excel)](link_to_excel_file)
