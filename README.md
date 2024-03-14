@@ -54,9 +54,9 @@ The analysis revealed several key findings:
 The Sandringham Dataset Analysis project provides valuable insights into the dynamics of Sandringham's community and housing market. By analyzing and visualizing the dataset, this project contributes to a better understanding of trends and patterns within the suburb, which can inform decision-making processes for stakeholders and policymakers.
 
 ---
-## US Open Dataset Analysis
+## US Open (Tennis) Dataset Analysis
 
-- **Report:** [Executive Summary (PDF)](link_to_report_pdf)
+- **Report:** [Executive Summary (PDF)](https://github.com/JustinDoubleO/Portfolio-Projects/blob/3e611eb5688abec910b6e9841a5fb53cff6cd2e5/US%20Open%20Dataset%20Analysis%20Report.pdf)
 - **Dataset:** [US Open Dataset (Excel)](link_to_excel_file)
 
 #### Sample Dataset
