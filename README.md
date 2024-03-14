@@ -21,27 +21,26 @@ In my free time, I enjoy exploring new data analysis tools and techniques to exp
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ## Sandringham Dataset Analysis
----
 
 - **Report**: [Sandringham Dataset Analysis Report (PDF)](link_to_report_pdf)
 - **Dataset**: [Sandringham Dataset (Excel)](link_to_excel_file)
 
-### Goal
+#### Goal
 
 The goal of this project is to analyze comprehensive data from the Australian Bureau of Statistics (ABS) covering the suburb of Sandringham, focusing on its property market, demographics, and economic indicators over a span of 20 years.
 
-### Description
+#### Description
 
 The Sandringham Dataset Analysis project explores various facets of Sandringham's community, including property median prices, ownership patterns, population dynamics, employment status, and more. By leveraging data visualization techniques, the project aims to uncover trends, patterns, and insights within the dataset.
 
-### Skills
+#### Skills
 
 - Data Analysis
 - Data Visualization
 - Statistical Analysis
 - Report Writing
 
-### Result
+#### Result
 
 The analysis revealed several key findings:
 
@@ -50,7 +49,7 @@ The analysis revealed several key findings:
 3. Employment dynamics exhibited shifts, with fluctuations in full-time, part-time, and unemployment rates over time.
 4. Changes in housing tenure and family compositions were observed, reflecting evolving demographic trends.
 
-### Conclusion
+#### Conclusion
 
 The Sandringham Dataset Analysis project provides valuable insights into the dynamics of Sandringham's community and housing market. By analyzing and visualizing the dataset, this project contributes to a better understanding of trends and patterns within the suburb, which can inform decision-making processes for stakeholders and policymakers.
 
