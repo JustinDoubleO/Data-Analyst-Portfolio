@@ -53,6 +53,42 @@ The analysis revealed several key findings:
 
 The Sandringham Dataset Analysis project provides valuable insights into the dynamics of Sandringham's community and housing market. By analyzing and visualizing the dataset, this project contributes to a better understanding of trends and patterns within the suburb, which can inform decision-making processes for stakeholders and policymakers.
 
+---
+## US Open Dataset Analysis
+
+- **Report:** [Executive Summary (PDF)](link_to_report_pdf)
+- **Dataset:** [US Open Dataset (Excel)](link_to_excel_file)
+
+#### Sample Dataset
+
+The US Tennis Open event, one of the most esteemed tennis competitions in the world, and the fourth and final Grand Slam competition of the year, served as the dataset for Assignment 2. It has 141 years' worth of men's and women's championship games from 1881 to 2021.
+
+276 sample records and 22 attributes make up the dataset's original structure. Even though there are 22 attributes, Champion Seed, Mins, and Runner-up Seed are not provided for this assignment. The available characteristics are listed below.
+
+#### Goal of the Project
+
+In order to analyze a high-dimensional dataset from US Tennis Open match records, this paper employs advanced data visualization techniques. The dataset has 22 characteristics and 276 example records. Using the analytical visualization application Tableau, visualization techniques like TreeMap, Parallel Coordinate, Geographic Mapping, and others are applied to the dataset. The report provides information on the data properties, data pre-processing procedures, and analysis of the various approaches used. There is also a conclusion that summarizes the main findings.
+
+#### Description
+
+The US Open Dataset Analysis project explores various visualization techniques applied to the dataset of US Tennis Open match records. Techniques such as TreeMap, Parallel Coordinate, and Geographic Mapping are employed to analyze trends in match outcomes, player performances, and geographical distribution of champions.
+
+#### Skills 
+
+- Data Visualization
+- Tableau
+- Data Analysis
+- Statistical Analysis
+- Report Writing
+
+#### Result
+
+The analysis revealed several key findings:
+
+- The distribution of champions across different countries and genders.
+- Trends in match outcomes and player performances over time.
+- Geographic distribution of champions and the popularity of tennis across different regions.
+
 
 ---
 ## Education
